@@ -1,2 +1,2 @@
 # Relevance-Weighted-Distance-K-Nearest-Neighbors-RWDKNN
-The RWD-KNN function uses NumPy, Pandas, and Scikit-learn to standardize SCADA data, assign feature weights using Spearman correlation, and identify relevant neighbours through weighted Euclidean distance. It predicts generator temperature using inverse-distance-weighted averaging and selects optimal K through chronological cross-validation.
+The RWD-KNN function uses NumPy, and Scikit-learn to standardize SCADA data, assign feature weights using Spearman correlation, and identify relevant neighbours through weighted Euclidean distance. It predicts generator temperature using inverse-distance-weighted averaging and selects optimal K through chronological cross-validation.
